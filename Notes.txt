@@ -1,0 +1,6 @@
+Why ShadCDN => to make changes directly in the component made
+(rather than in chakra - need to make changes in props)
+
+Route Groups => don;t affect URL
+can mark a folder as a Route Group to prevent the folder from being included in the route's URL path.
+This allows you to organize your route segments and project files into logical groups without affecting the URL path structure.
